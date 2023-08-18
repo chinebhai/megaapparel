@@ -1,0 +1,6 @@
+
+ .dropcap { width: 40px; height: 40px; line-height: 40px; float: left; border-radius: 50%; background: var(--bs-mega-blue); text-align: center; color: #ffffff; margin-right: 10px; }
+ .dropcap.dropcap-border { background: transparent; border:2px solid var(--bs-mega-blue); color: var(--bs-mega-blue); }
+ .dropcap.gray { background: #f6f7f8; color: var(--bs-mega-blue); }
+ .dropcap.large { width: 70px; height: 70px; line-height: 70px; font-size: 30px; }
+ .dropcap.square {  border-radius: 3px; }
